@@ -1,0 +1,31 @@
+/target/
+/data
+src/main/java/com/ukefu/webim/test/
+!.mvn/wrapper/maven-wrapper.jar
+!/src/main/resources/application-dev.properties
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS CODE ###
+.vscode
